@@ -52,7 +52,9 @@ python index.py
 python3 index.py
 ```
 
+# Done:
 You should get a summary_test.html document and open less than a dozen of figures where different parameters and values are compared.
 
+# Next Features:
 Our work ends there. Next step will be to create a pipeline, build a model and test it, make some adjustements if needed, until he will seems the best to you. 
 
